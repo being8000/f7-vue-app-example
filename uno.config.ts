@@ -53,6 +53,12 @@ export default defineConfig({
         "vertical-align": "middle",
       },
       collections: {
+        carbon: () =>
+          import("@iconify-json/carbon/icons.json").then((i) => i.default),
+        mdi: () =>
+          import("@iconify-json/mdi/icons.json").then((i) => i.default),
+        logos: () =>
+          import("@iconify-json/logos/icons.json").then((i) => i.default),
         remote: async (iconName) => {
           // your custom loader here. Do whatever you want.
           // for example, fetch from a remote server:
