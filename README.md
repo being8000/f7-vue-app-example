@@ -23,3 +23,6 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
 - [Framework7](https://framework7.io/vue/introduction)
 - [UnoCSS - Atomic CSS Engine](https://unocss.dev/)
 - [Vite](https://vitejs.dev/)
+- [Icons Docs](https://unocss.dev/presets/icons)
+- [Icons Iconify](https://iconify.design/)
+- [Icons & Fonts](https://pictogrammers.com/libraries/)
